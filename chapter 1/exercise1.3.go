@@ -19,7 +19,7 @@ func main() {
 
 	//comands to reproduce:
 	//$ go build exercise1.3.go
-	//./echo2 a b c d
+	//exercise1.3 a b c d
 	//output: 
 	//a b c d 4.522µs
 	//a b c d 1.001µs

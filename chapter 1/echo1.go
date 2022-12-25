@@ -11,8 +11,8 @@ func main() {
 	//with arguments
 
 	//comands to reproduce:
-	//$ go build echo2.go
-	//./echo2 a b c d
+	//$ go build echo1.go
+	//./echo1 a b c d
 	//output: a b c d
 	var s, sep string
 

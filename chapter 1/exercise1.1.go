@@ -12,9 +12,9 @@ func main() {
 	//with arguments
 
 	//comands to reproduce:
-	//$ go build echo2.go
-	//./echo2 a b c d
-	//output: ./echo2 a b c d
+	//$ go build exercise1.1.go
+	//./exercise1.1 a b c d
+	//output: ./exercise1.1 a b c d
 
 	fmt.Println(strings.Join(os.Args[0:], " "))
 }

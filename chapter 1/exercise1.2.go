@@ -11,9 +11,9 @@ func main() {
 	//with arguments
 
 	//comands to reproduce:
-	//$ go build echo2.go
-	//./echo2 a b c d
-	//output: 
+	//$ go build exercise1.2.go
+	//./exercise1.2 a b c d
+	//output:
 	//a 0
 	//b 1
 	//c 2

@@ -12,8 +12,8 @@ func main() {
 	//with arguments
 
 	//comands to reproduce:
-	//$ go build echo2.go
-	//./echo2 a b c d
+	//$ go build echo3.go
+	//./echo3 a b c d
 	//output: a b c d
 	
 	fmt.Println(strings.Join(os.Args[1:], " "))
