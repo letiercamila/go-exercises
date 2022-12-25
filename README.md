@@ -1,5 +1,4 @@
 <h1 align="center"> The Go Programming Language Exercises </h1>
-![an image of Gopher riding a motocycle](https://user-images.githubusercontent.com/94129015/209454396-48dcc877-36af-4352-91b4-d243035442b8.svg)
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
