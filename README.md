@@ -1,7 +1,7 @@
 <h1 align="center"> The Go Programming Language Exercises </h1>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=GREEN&style=for-the-badge"/>
 </p>
 
 <h4 align="center"> 
